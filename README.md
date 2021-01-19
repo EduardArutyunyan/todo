@@ -3,6 +3,7 @@
 #### Командой `npm start` вы можете запустить приложение локально и отслеживать все изменения в реальном времени;
 
 #### Макет приложения вы можете найти по ссылке:
+
 https://drive.google.com/file/d/1tnkBSuIOxsrauYNEMu8JezS1V0JpYg9l/view?usp=sharing
 
 
